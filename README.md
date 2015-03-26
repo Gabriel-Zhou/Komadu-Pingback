@@ -15,5 +15,18 @@ https://github.com/Gabriel-Zhou/Komadu-Pingback/wiki/Basic-Use-Case:-Revision-of
 2. JDK 1.6 or higher
 3. Apache XML Beans 2.3.0
 4. Apache Tomcat 6.0.x or higher
-5. Komadu Provenance Collection and Visualization Tool V1.0 
+5. Komadu Provenance Collection Tool V1.0 and Deploy as Web Service
 (Available at: https://github.com/Data-to-Insight-Center/komadu)
+
+##Building the Source
+1. Check Out Komadu Pingback Model code from git repository:
+```
+git clone https://github.com/Gabriel-Zhou/Komadu-Pingback.git
+```
+
+
+
+
+
+
+
