@@ -36,7 +36,7 @@ mvn clean compile war:war
 {your_tomcat_home}/webapps/ directory.
 2. Start Tomcat.
 
-Executing Basic Use Case
+##Executing Basic Use Case
 
 Once you have successfully deployed Komadu Pingback Model on Tomcat, you can execute the basic use case with guide available at:
 ```
