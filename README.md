@@ -32,7 +32,18 @@ mvn clean compile war:war
 ```
 
 ##Set up Tomcat and deploy Komadu Pingback Web Service
-1. 
+1. Copy {Komadu-Pingback_checkout_path}/target/Komadu-Pingback-Server-1.0-SNAPSHOT.war to 
+{your_tomcat_home}/webapps/ directory.
+2. Start Tomcat.
+
+Executing Basic Use Case
+
+Once you have successfully deployed Komadu Pingback Model on Tomcat, you can execute the basic use case with guide available at:
+```
+https://github.com/Gabriel-Zhou/Komadu-Pingback/wiki/Basic-Use-Case:-Revision-of-Dummy-File
+```
+
+
 
 
 
