@@ -26,6 +26,13 @@ git clone https://github.com/Gabriel-Zhou/Komadu-Pingback.git
 
 2. Edit the config.properties file found under src/main/java/edu/indiana/d2i/komadu/pingback/server and set your host name, port number for Tomcat Service and data root path to store all transaction data.
 
+3. Build Komadu Pingback Model
+```
+mvn clean compile war:war
+```
+
+##Set up Tomcat and deploy Komadu Pingback Web Service
+1. 
 
 
 
